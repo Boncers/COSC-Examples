@@ -23,4 +23,29 @@ def frequent_words(script):
       else:
         words_frequency_pairs.update({word: 1})
       #updates word count
+  
+  #This next section is technically part of a different assignment, as it returns a different value
+  #grabs top 5 interesting words 
+  #This works by sorting the dictionary of words, and then if the top words aren't in the common_words list,
+  #it doesn't get included in the topfive list
+  
+  common_words = ['the', 'a', 'an', 'and', 'of', 'in', 'to', 'is', 'are', 'be', 'i', 'he', 'she', 'you', 'with', 'on', 'it', 'this', 'that', 'we', 'what', 'his', 'at', 'for', 'him', 'her', 'hers']
+  topfive = []
+  topfreqword = ""
+  topfreqcount = 0
+  i = 0
+  while i != 5:
+    for key, value in words_frequency_pairs.items():
+      if key not in topfive:
+        if value > topfreqcount:
+            topfreqword = key
+            topfreqcount = value
+    topfive.append([topfreqcount, topfreqword])
+    if topfreqword in words_frequency_pairs:
+      del words_frequency_pairs[topfreqword]
+    i += 1
+    topfreqcount = 0
+  #return topfive
+  
+  
   return m_word
