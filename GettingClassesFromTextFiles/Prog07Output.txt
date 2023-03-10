@@ -1,0 +1,20 @@
+25 employees.
+Total hours: 1221.92
+Average per employee: 48.8769
+ 
+20 employees.
+Total hours: 1233.96
+Average per employee: 61.6982
+ 
+1 employees.
+Total hours: 92.7222
+Average per employee: 92.7222
+ 
+0 employees.
+Total hours: 0
+Average per employee: -nan(ind)
+ 
+25 employees.
+Total hours: 1221.92
+Average per employee: 48.8769
+ 

@@ -1,0 +1,42 @@
+//Prog07Test.cpp
+//COSC 1030 Section 11
+//Program 7
+//March 8, 2023
+
+Please give the name of your input file: data1.info
+Please give the name of the output file: Prog07Output.txt
+
+done reading and writing!
+C:\Users\TheMi\Documents\UW College Work\COSC 1030\Prog07\Prog07\x64\Debug\Prog07.exe (process 17096) exited with code 0.
+Press any key to close this window . . .
+
+Please give the name of your input file: data2.info
+Please give the name of the output file: Prog07Output.txt
+
+done reading and writing!
+C:\Users\TheMi\Documents\UW College Work\COSC 1030\Prog07\Prog07\x64\Debug\Prog07.exe (process 13320) exited with code 0.
+Press any key to close this window . . .
+
+Please give the name of your input file: data3.info
+Please give the name of the output file: Prog07Output.txt
+
+done reading and writing!
+C:\Users\TheMi\Documents\UW College Work\COSC 1030\Prog07\Prog07\x64\Debug\Prog07.exe (process 13116) exited with code 0.
+Press any key to close this window . . .
+
+Please give the name of your input file: data4.info
+Please give the name of the output file: Prog07Output.txt
+
+done reading and writing!
+C:\Users\TheMi\Documents\UW College Work\COSC 1030\Prog07\Prog07\x64\Debug\Prog07.exe (process 4848) exited with code 0.
+Press any key to close this window . . .
+
+Please give the name of your input file: IdoNotExist.txt
+Please give the name of the output file: Prog07Output.txt
+Can't open IdoNotExist.txt
+Please give the name of your input file: Data1.info
+Please give the name of the output file: Prog07Output.txt
+
+done reading and writing!
+C:\Users\TheMi\Documents\UW College Work\COSC 1030\Prog07\Prog07\x64\Debug\Prog07.exe (process 18596) exited with code 0.
+Press any key to close this window . . .
